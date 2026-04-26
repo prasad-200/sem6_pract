@@ -8,5 +8,5 @@ A* DONE
 Genetic Algorithm Crossover DOne 
 Genetic Algorithm Mutation done
 Genetic Algorithm
-Prolog
+Prolog DOne 
 theory
