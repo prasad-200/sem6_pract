@@ -1,0 +1,12 @@
+DFS Done 
+BFS Done 
+DLS Done
+DFID Done
+Hill Climbing Done
+Greedy DOne
+A* DONE 
+Genetic Algorithm Crossover DOne 
+Genetic Algorithm Mutation done
+Genetic Algorithm
+Prolog
+theory
