@@ -7,6 +7,6 @@ Greedy DOne
 A* DONE 
 Genetic Algorithm Crossover DOne 
 Genetic Algorithm Mutation done
-Genetic Algorithm
+Genetic Algorithm (Imposter) Not done
 Prolog DOne 
-theory
+theory Read only
