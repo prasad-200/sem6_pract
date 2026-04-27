@@ -1,0 +1,40 @@
+🟢 LEVEL 1 – BASIC PATTERN (start here)
+
+Digit / Alphabet check (#5) DONE 
+Vowel or Consonant (#1) DONE 
+Word or Number (#2) DONE 
+
+👉 After this, you understand:
+
+character matching
+condition checking
+
+🟡 LEVEL 2 – COUNTING LOGIC
+Vowel count (#6)
+Spaces & Tabs count (#8)
+Lines, Words, Characters (#3)
+
+👉 Same pattern:
+
+match → increment counter
+🟠 LEVEL 3 – TRANSFORMATION / IDENTIFICATION
+Lowercase → Uppercase (#7)
+Special characters (#9)
+Digits, alphabets, special symbols (#10)
+
+👉 Here you learn:
+
+modify output
+classify tokens
+
+🔵 LEVEL 4 – SLIGHTLY ADVANCED
+Valid Identifier (#11)
+Integer / Float recognition (#15)
+Even or Odd (#16)
+
+🔴 LEVEL 5 – RARE / HARD (do last or skip if time)
+
+Keywords (#12)
+Operators & operands (#13)
+Palindrome (#14)
+Full Lexical Analyzer (#4)
