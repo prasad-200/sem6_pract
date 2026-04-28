@@ -1,0 +1,10 @@
+1. Left Recursion done 
+2. Left Factoring DONE 
+3. FIRST
+4. FOLLOW
+5. TAC
+6. Symbol Table
+7. Code Optimization
+8. Lexical Analyzer
+9. LL(1)
+10. Macroprocessor
